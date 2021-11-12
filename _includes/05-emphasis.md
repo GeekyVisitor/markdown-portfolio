@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+#### **Geeky Skills**
+1. _Multi-Lingual_
+2. _Teachable_
+3. _**Sinsational**_
