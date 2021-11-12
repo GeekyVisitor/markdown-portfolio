@@ -1,1 +1,1 @@
-[Github] (http://www.geekyvisitor.com)
+[Github](http://www.geekyvisitor.com)
